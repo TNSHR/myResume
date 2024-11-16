@@ -1,4 +1,4 @@
 document.addEventListener("DOMContentLoaded", () => {
-    console.log("Profile page loaded successfully!");
+    console.log("Vibrant Profile Page Loaded!");
   });
   
